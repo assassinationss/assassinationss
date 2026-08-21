@@ -21,6 +21,10 @@ I publish the systems that keep importers from getting burned — open-source to
 
 New to sourcing from China? Read [the VERIFY system](https://github.com/assassinationss/awesome-china-sourcing#-the-verify-system) first — six steps that filter out 95% of bad suppliers before money moves.
 
+## ✍️ Latest writing
+
+- **[The GitHub-Only Monetization Stack: Free Repo to Paid Product](https://dev.to/solresearchdesk/the-github-only-monetization-stack-free-repo-to-paid-product-3ahk)** — how this product line runs on GitHub alone: profile repo → SEO repo → Pages landing page → private vault → Sponsors.
+
 ## 📬 Contact
 
 Open an issue on any repo, or reach me at `assassinationss@163.com`.
