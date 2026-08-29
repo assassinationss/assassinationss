@@ -4,6 +4,8 @@
 
 **China sourcing intelligence, verification systems & negotiation tools for e-commerce founders.**
 
+🌐 Read everything at **[assassinationss.github.io](https://assassinationss.github.io/)** — the Sol Research Desk hub: 4 free deep guides + the Playbook.
+
 I publish the systems that keep importers from getting burned — open-source toolkits, checklists, and field-tested templates.
 
 </div>
