@@ -19,6 +19,16 @@ I publish the systems that keep importers from getting burned — open-source to
 | 🇨🇳 | **The China Sourcing Playbook 2026** — 25 templates to verify suppliers, negotiate like a local & never get burned | [Product page](https://assassinationss.github.io/china-sourcing-playbook/) |
 | 🧰 | **Awesome China Sourcing** — open-source supplier verification toolkit: VERIFY system, red flags, Incoterms, free email templates | [Repo](https://github.com/assassinationss/awesome-china-sourcing) |
 
+## 🛠 Open-source work
+
+Simplified Chinese docs contributor — native-speaker review & translation:
+
+- **[toss/react-simplikit](https://github.com/toss/react-simplikit)** — finished the repo's entire zh-Hans roadmap: 15 API pages translated ([#525](https://github.com/toss/react-simplikit/pull/525)) plus a 30-page CJK typography sweep ([#524](https://github.com/toss/react-simplikit/pull/524))
+- **[Fristail27/vocab-bloom-hub](https://github.com/Fristail27/vocab-bloom-hub)** — native review of the Chinese README and site copy ([#519](https://github.com/Fristail27/vocab-bloom-hub/pull/519), [#520](https://github.com/Fristail27/vocab-bloom-hub/pull/520))
+- **[open-data-brazil/br-validators](https://github.com/open-data-brazil/br-validators)** — aligned docs with official validation vectors ([#46](https://github.com/open-data-brazil/br-validators/pull/46))
+
+More in transit: NeTEx transit-data fixes ([#1082](https://github.com/TransmodelEcosystem/NeTEx/pull/1082), approved) and a zh translation skill for shadcn-labs ([#27](https://github.com/shadcn-labs/skills/pull/27)).
+
 ## 📌 Start here
 
 New to sourcing from China? Read [the VERIFY system](https://github.com/assassinationss/awesome-china-sourcing#-the-verify-system) first — six steps that filter out 95% of bad suppliers before money moves.
