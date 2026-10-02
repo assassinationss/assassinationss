@@ -27,7 +27,10 @@ Simplified Chinese docs contributor — native-speaker review & translation:
 - **[Fristail27/vocab-bloom-hub](https://github.com/Fristail27/vocab-bloom-hub)** — native review of the Chinese README and site copy ([#519](https://github.com/Fristail27/vocab-bloom-hub/pull/519), [#520](https://github.com/Fristail27/vocab-bloom-hub/pull/520))
 - **[open-data-brazil/br-validators](https://github.com/open-data-brazil/br-validators)** — aligned docs with official validation vectors ([#46](https://github.com/open-data-brazil/br-validators/pull/46))
 
-More in transit: NeTEx transit-data fixes ([#1082](https://github.com/TransmodelEcosystem/NeTEx/pull/1082), approved) and a zh translation skill for shadcn-labs ([#27](https://github.com/shadcn-labs/skills/pull/27)).
+- **[shadcn-labs/skills](https://github.com/shadcn-labs/skills)** — the repo's complete zh-CN layer: README, a reusable docs-i18n-zh translator skill, and all 6 SKILL.md translations ([#26](https://github.com/shadcn-labs/skills/pull/26)–[#33](https://github.com/shadcn-labs/skills/pull/33), 8 merged PRs)
+- **[inferstep/ATLAS](https://github.com/inferstep/ATLAS)** — full zh-CN resync of README + ARCHITECTURE ([#246](https://github.com/inferstep/ATLAS/pull/246))
+
+In transit: NeTEx transit-data fixes ([#1081](https://github.com/TransmodelEcosystem/NeTEx/pull/1081)/[#1082](https://github.com/TransmodelEcosystem/NeTEx/pull/1082), approved) and a modular/llm-inference-handbook zh-CN pilot ([#225](https://github.com/modular/llm-inference-handbook/pull/225)).
 
 ## 📌 Start here
 
@@ -39,7 +42,7 @@ New to sourcing from China? Read [the VERIFY system](https://github.com/assassin
 - **🧮 Free interactive tools** — [Landed Cost Calculator](https://assassinationss.github.io/calculator.html) (FOB + freight + duty + VAT, true per-unit cost) · [Supplier Red-Flag Checker](https://assassinationss.github.io/checker.html) (score any supplier in 3 minutes) · [CNY 2027 Deadline Calculator](https://assassinationss.github.io/cny-deadline.html) (last safe order date before the real factory shutdown — Feb 6, 11 days early)
 - **5 deep guides** — [Verify a supplier (6 steps)](https://github.com/assassinationss/awesome-china-sourcing/blob/main/docs/how-to-verify-a-chinese-supplier-2026.md) · [Supplier phrases bilingual decoder](https://github.com/assassinationss/awesome-china-sourcing/blob/main/docs/what-chinese-suppliers-say-vs-what-they-mean.md) · [Read a Chinese business license](https://github.com/assassinationss/awesome-china-sourcing/blob/main/docs/how-to-read-a-chinese-business-license.md) · [Pay safely (instruments & scam patterns)](https://github.com/assassinationss/awesome-china-sourcing/blob/main/docs/how-to-pay-a-chinese-supplier-safely-2026.md) · [Alibaba vs 1688](https://github.com/assassinationss/awesome-china-sourcing/blob/main/docs/alibaba-vs-1688-2026.md)
 - **[Weekly Q&A](https://github.com/assassinationss/awesome-china-sourcing/discussions/2)** — ask anything about sourcing from China, I answer in-thread
-- ⚡ **September window: $12 until Oct 1** (then $19) — email `assassinationss@163.com` with subject **Playbook** · or subject **Sample** for the free pack (2 AI prompts + claim template)
+- ⚡ **$19 — direct order**: email `assassinationss@163.com` with subject **Playbook** for payment details and same-day access · or subject **Sample** for the free pack (2 AI prompts + claim template)
 
 ## ✍️ Latest writing
 
