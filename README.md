@@ -18,6 +18,7 @@ I publish the systems that keep importers from getting burned — open-source to
 |---|-----------|------|
 | 🇨🇳 | **The China Sourcing Playbook 2026** — 25 templates to verify suppliers, negotiate like a local & never get burned | [Product page](https://assassinationss.github.io/china-sourcing-playbook/) |
 | 🧰 | **Awesome China Sourcing** — open-source supplier verification toolkit: VERIFY system, red flags, Incoterms, free email templates | [Repo](https://github.com/assassinationss/awesome-china-sourcing) |
+| 📊 | **Crypto Portfolio Tracker** — free Excel tracker (trade log → live holdings → P&L). Pro edition with automated dashboard, pay in USDT | [Repo](https://github.com/assassinationss/crypto-portfolio-tracker) |
 
 ## 🛠 Open-source work
 
