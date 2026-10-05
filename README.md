@@ -29,7 +29,7 @@ Simplified Chinese docs contributor — native-speaker review & translation:
 - **[open-data-brazil/br-validators](https://github.com/open-data-brazil/br-validators)** — aligned docs with official validation vectors ([#46](https://github.com/open-data-brazil/br-validators/pull/46))
 
 - **[shadcn-labs/skills](https://github.com/shadcn-labs/skills)** — the repo's complete zh-CN layer: README, a reusable docs-i18n-zh translator skill, and all 6 SKILL.md translations ([#26](https://github.com/shadcn-labs/skills/pull/26)–[#33](https://github.com/shadcn-labs/skills/pull/33), 8 merged PRs)
-- **[inferstep/ATLAS](https://github.com/inferstep/ATLAS)** — full zh-CN resync of README + ARCHITECTURE ([#246](https://github.com/inferstep/ATLAS/pull/246))
+- **[inferstep/ATLAS](https://github.com/inferstep/ATLAS)** — full zh-CN resync of README + ARCHITECTURE ([#246](https://github.com/inferstep/ATLAS/pull/246)), then SETUP + TROUBLESHOOTING resyncs for both zh-CN ([#287](https://github.com/inferstep/ATLAS/pull/287)) and Japanese ([#289](https://github.com/inferstep/ATLAS/pull/289))
 
 In transit: NeTEx transit-data fixes ([#1081](https://github.com/TransmodelEcosystem/NeTEx/pull/1081)/[#1082](https://github.com/TransmodelEcosystem/NeTEx/pull/1082), approved) and a modular/llm-inference-handbook zh-CN pilot ([#225](https://github.com/modular/llm-inference-handbook/pull/225)).
 
