@@ -34,7 +34,7 @@ Simplified Chinese docs contributor — native-speaker review & translation. **2
 - **[inferstep/ATLAS](https://github.com/inferstep/ATLAS)** — full zh-CN resync of README + ARCHITECTURE ([#246](https://github.com/inferstep/ATLAS/pull/246)), then SETUP + TROUBLESHOOTING resyncs for both zh-CN ([#287](https://github.com/inferstep/ATLAS/pull/287)) and Japanese ([#289](https://github.com/inferstep/ATLAS/pull/289)), then completed the docs-index audit: every document under `docs/` reachable from the index ([#345](https://github.com/inferstep/ATLAS/pull/345), ships with 3.2.0)
 - **[TransmodelEcosystem/NeTEx](https://github.com/TransmodelEcosystem/NeTEx)** — fixed invalid XML namespace URIs across the fare examples (comma → dot in `XmlnsUrl`), merged into v2.0 ([#1082](https://github.com/TransmodelEcosystem/NeTEx/pull/1082))
 
-In transit: a NeTEx README typo fix ([#1081](https://github.com/TransmodelEcosystem/NeTEx/pull/1081), approved) and a modular/llm-inference-handbook zh-CN pilot ([#225](https://github.com/modular/llm-inference-handbook/pull/225)), and two ATLAS zh-docs fixes in review ([#436](https://github.com/inferstep/ATLAS/pull/436)/[#438](https://github.com/inferstep/ATLAS/pull/438)).
+Member of the [TransmodelEcosystem](https://github.com/TransmodelEcosystem) org (NeTEx contributors team, Oct 2026). In transit: a NeTEx README typo fix ([#1081](https://github.com/TransmodelEcosystem/NeTEx/pull/1081), approved) and a modular/llm-inference-handbook zh-CN pilot ([#225](https://github.com/modular/llm-inference-handbook/pull/225)), and two ATLAS zh-docs fixes in review ([#436](https://github.com/inferstep/ATLAS/pull/436)/[#438](https://github.com/inferstep/ATLAS/pull/438)).
 
 ## 📌 Start here
 
