@@ -4,7 +4,7 @@
 
 **China sourcing intelligence, verification systems & negotiation tools for e-commerce founders.**
 
-🌐 Read everything at **[assassinationss.github.io](https://assassinationss.github.io/)** — the Sol Research Desk hub: 4 free deep guides + the Playbook.
+🌐 Read everything at **[assassinationss.github.io](https://assassinationss.github.io/)** — the Sol Research Desk hub: 5 free deep guides + the Playbook.
 
 I publish the systems that keep importers from getting burned — open-source toolkits, checklists, and field-tested templates.
 
@@ -22,7 +22,7 @@ I publish the systems that keep importers from getting burned — open-source to
 
 ## 🛠 Open-source work
 
-Simplified Chinese docs contributor — native-speaker review & translation:
+Simplified Chinese docs contributor — native-speaker review & translation. **20 merged PRs across 7 repos** since Sept 2026:
 
 - **[toss/react-simplikit](https://github.com/toss/react-simplikit)** — finished the repo's entire zh-Hans roadmap: 15 API pages translated ([#525](https://github.com/toss/react-simplikit/pull/525)) plus a 30-page CJK typography sweep ([#524](https://github.com/toss/react-simplikit/pull/524))
 - **[Fristail27/vocab-bloom-hub](https://github.com/Fristail27/vocab-bloom-hub)** — native review of the Chinese README and site copy ([#519](https://github.com/Fristail27/vocab-bloom-hub/pull/519), [#520](https://github.com/Fristail27/vocab-bloom-hub/pull/520))
@@ -30,9 +30,10 @@ Simplified Chinese docs contributor — native-speaker review & translation:
 
 - **[shadcn-labs/skills](https://github.com/shadcn-labs/skills)** — the repo's complete zh-CN layer: README, a reusable docs-i18n-zh translator skill, and all 6 SKILL.md translations ([#26](https://github.com/shadcn-labs/skills/pull/26)–[#33](https://github.com/shadcn-labs/skills/pull/33), 8 merged PRs)
 - **[kishorkukreja/awesome-supply-chain](https://github.com/kishorkukreja/awesome-supply-chain)** — Awesome China Sourcing accepted into the General Supply Chain section ([#8](https://github.com/kishorkukreja/awesome-supply-chain/pull/8), merged) — the list now sits inside the awesome ecosystem
+- **[ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller)** — the toolkit listed in Sourcing & Suppliers: initial entry ([#52](https://github.com/ScaleLeap/awesome-amazon-seller/pull/52)) plus the interactive-tools refresh ([#61](https://github.com/ScaleLeap/awesome-amazon-seller/pull/61)), both merged
 - **[inferstep/ATLAS](https://github.com/inferstep/ATLAS)** — full zh-CN resync of README + ARCHITECTURE ([#246](https://github.com/inferstep/ATLAS/pull/246)), then SETUP + TROUBLESHOOTING resyncs for both zh-CN ([#287](https://github.com/inferstep/ATLAS/pull/287)) and Japanese ([#289](https://github.com/inferstep/ATLAS/pull/289)), then completed the docs-index audit: every document under `docs/` reachable from the index ([#345](https://github.com/inferstep/ATLAS/pull/345), ships with 3.2.0)
 
-In transit: NeTEx transit-data fixes ([#1081](https://github.com/TransmodelEcosystem/NeTEx/pull/1081)/[#1082](https://github.com/TransmodelEcosystem/NeTEx/pull/1082), approved) and a modular/llm-inference-handbook zh-CN pilot ([#225](https://github.com/modular/llm-inference-handbook/pull/225)).
+In transit: NeTEx transit-data fixes ([#1081](https://github.com/TransmodelEcosystem/NeTEx/pull/1081)/[#1082](https://github.com/TransmodelEcosystem/NeTEx/pull/1082), approved) and a modular/llm-inference-handbook zh-CN pilot ([#225](https://github.com/modular/llm-inference-handbook/pull/225)), and two ATLAS zh-docs fixes in review ([#436](https://github.com/inferstep/ATLAS/pull/436)/[#438](https://github.com/inferstep/ATLAS/pull/438)).
 
 ## 📌 Start here
 
